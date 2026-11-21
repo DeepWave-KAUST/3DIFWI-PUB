@@ -1,0 +1,3 @@
+starting  model: r.m.s. error against the true model 454.1 m/s (0-1 km 471.2, 1-2 km 480.9, 2-3 km 536.4, 3-4 km 453.2, 4-4.7 km 160.6)
+inverted  model (B5): r.m.s. error against the true model 216.1 m/s (0-1 km 177.2, 1-2 km 269.8, 2-3 km 227.9, 3-4 km 225.6, 4-4.7 km 129.2)
+misfit mean(1-GCN): 0.7404 -> 0.1462 over 200 iterations; iterations took 1.20 h, peak 47.2 GB

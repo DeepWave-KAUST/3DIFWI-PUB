@@ -1,0 +1,8 @@
+# CUDA build of PyTorch (CUDA 12 driver); on V100 GPUs use the cu126 index instead:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch
+sweep-solver==0.3.6      # the sweep wave-equation solver (imported as `sweep`), prebuilt CUDA core
+numpy
+scipy
+matplotlib
+h5py                     # reads the Overthrust 3-D model
